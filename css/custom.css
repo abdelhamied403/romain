@@ -18,3 +18,11 @@
 .rd-navbar-static:not(.rd-navbar--is-stuck) .rd-navbar-brand .brand h3 {
   font-size: 48px;
 }
+
+ul.list {
+  list-style-type: disc;
+}
+
+ul.list li {
+  display: list-item;
+}
