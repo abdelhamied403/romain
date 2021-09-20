@@ -588,7 +588,8 @@ html [class*="section-"].section-bottom-0 {
     background-image: url(../images/home-01-816x1224.png),
       linear-gradient(#f5f9ef 0, #f5f9ef 40%, #c4c8be 75%, #c4c8be 100%);
     background-repeat: no-repeat;
-    background-position: 49.1% 4.5%;
+    background-size: contain;
+    background-position: 50% 0%;
   }
 }
 

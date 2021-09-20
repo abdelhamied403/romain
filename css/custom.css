@@ -1,0 +1,20 @@
+.brand h1,
+.brand h3 {
+  text-align: center;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+.brand h1 {
+  font-size: 48px;
+}
+.brand h3 {
+  font-size: 24px;
+  color: var(--primary);
+}
+
+.rd-navbar-static:not(.rd-navbar--is-stuck) .rd-navbar-brand .brand h1 {
+  font-size: 102px;
+}
+.rd-navbar-static:not(.rd-navbar--is-stuck) .rd-navbar-brand .brand h3 {
+  font-size: 48px;
+}
