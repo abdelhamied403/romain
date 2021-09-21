@@ -33,10 +33,10 @@
   --breakpoint-lg: 992px;
   --breakpoint-xl: 1200px;
   --breakpoint-xxl: 1600px;
-  --font-family-sans-serif: "matter", "Roboto", -apple-system,
-    BlinkMacSystemFont, "matter", "Segoe UI", Roboto, "Helvetica Neue", Arial,
+  --font-family-sans-serif: "matter-sq", "Roboto", -apple-system,
+    BlinkMacSystemFont, "matter-sq", "Segoe UI", Roboto, "Helvetica Neue", Arial,
     sans-serif;
-  --font-family-monospace: "matter", "Menlo", Monaco, Consolas,
+  --font-family-monospace: "matter-sq", "Menlo", Monaco, Consolas,
     "Liberation Mono", "Courier New", monospace;
 }
 
@@ -47,7 +47,7 @@
 }
 
 html {
-  font-family: "matter", sans-serif;
+  font-family: "matter-sq", sans-serif;
   line-height: 1.15;
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
@@ -68,7 +68,7 @@ section {
 
 body {
   margin: 0;
-  font-family: "matter", "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI",
+  font-family: "matter-sq", "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI",
     Roboto, "Helvetica Neue", Arial, sans-serif;
   font-size: 1rem;
   font-weight: 400;
@@ -195,7 +195,7 @@ pre,
 code,
 kbd,
 samp {
-  font-family: "matter", "Menlo", Monaco, Consolas, "Liberation Mono",
+  font-family: "matter-sq", "Menlo", Monaco, Consolas, "Liberation Mono",
     "Courier New", monospace;
   font-size: 1em;
 }
@@ -256,7 +256,7 @@ select,
 optgroup,
 textarea {
   margin: 0;
-  font-family: "matter", inherit;
+  font-family: "matter-sq", inherit;
   font-size: inherit;
   line-height: inherit;
 }
@@ -387,7 +387,7 @@ h6,
 .h5,
 .h6 {
   margin-bottom: 0.5rem;
-  font-family: "matter", "Abril Fatface", cursive;
+  font-family: "matter-sq", "Abril Fatface", cursive;
   font-weight: 400;
   line-height: 1.1;
   color: #343943;
@@ -2653,7 +2653,7 @@ textarea.form-control.is-invalid {
 
 .btn {
   display: inline-block;
-  font-family: "matter", "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI",
+  font-family: "matter-sq", "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI",
     Roboto, "Helvetica Neue", Arial, sans-serif;
   font-weight: 700;
   color: #343943;
@@ -6402,7 +6402,7 @@ a.close.disabled {
   z-index: 1070;
   display: block;
   margin: 0;
-  font-family: "matter", "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI",
+  font-family: "matter-sq", "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI",
     Roboto, "Helvetica Neue", Arial, sans-serif;
   font-style: normal;
   font-weight: 400;
@@ -6528,7 +6528,7 @@ a.close.disabled {
   z-index: 1060;
   display: block;
   max-width: 276px;
-  font-family: "matter", "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI",
+  font-family: "matter-sq", "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI",
     Roboto, "Helvetica Neue", Arial, sans-serif;
   font-style: normal;
   font-weight: 400;
@@ -10500,7 +10500,7 @@ button.bg-dark:focus {
 }
 
 .text-monospace {
-  font-family: "matter", "Menlo", Monaco, Consolas, "Liberation Mono",
+  font-family: "matter-sq", "Menlo", Monaco, Consolas, "Liberation Mono",
     "Courier New", monospace !important;
 }
 

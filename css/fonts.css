@@ -15,7 +15,10 @@
   font-weight: normal;
   font-style: normal;
 }
-
+@font-face {
+  font-family: "matter-sq";
+src: url(../fonts/Matter\ SQ\ Regular.ttf);
+}
 @font-face {
   font-family: "matter";
   src: url("../fonts/matter/Matter-Bold.eot");
